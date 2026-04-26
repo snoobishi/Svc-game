@@ -1,0 +1,14 @@
+{"name": "svc-game",
+ "version": "1.0.0",
+ "description": "A gaming service",
+ "main": "index.js",
+ "scripts": {
+   "start": "node index.js"
+ },
+ "dependencies": {
+   "express": "latest",
+   "mongodb": "latest",
+   "ethers": "latest",
+   "axios": "latest"
+ }
+}
